@@ -23,6 +23,8 @@ What am I looking for?
 
 I am looking for a role where I can use my special point-and-mark skills to annotate research papers at academic institutions that offer certificate courses in the following areas: mythology, war games, and kite making.
 
+[Link to the Random page](topics/random.md)
+
 ---------
 Page created on: {{ page.createdOn }}
 
