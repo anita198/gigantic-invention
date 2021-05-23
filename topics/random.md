@@ -9,7 +9,11 @@ So I lived my life alone, without anyone that I could really talk to, until I ha
 
 **Hey {{ site.name }}**
 
-{{site.googleURL}}
+[click here]({{site.googleURL}})
+
+{% for item in site.data.random %}
+-  {{item.company}}, {{item.period}}
+{% endfor %}
 
 The first night, then, I went to sleep on the sand, a thousand miles from any human habitation. I was more isolated than a shipwrecked sailor on a raft in the middle of the ocean. Thus you can imagine my amazement, at sunrise, when I was awakened by an odd little voice. It said:
 
