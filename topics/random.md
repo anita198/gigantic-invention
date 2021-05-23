@@ -11,7 +11,7 @@ So I lived my life alone, without anyone that I could really talk to, until I ha
 
 [click here]({{site.googleURL}})
 
-{% for item in site.data.random %}
+{% for item in site.data.random.items %}
 -  {{item.company}}, {{item.period}}
 {% endfor %}
 
