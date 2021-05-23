@@ -1,5 +1,6 @@
 ---
 author: Antoine de Saint-Exupery
+layout: demo_template
 ---
 
 Chapter II
