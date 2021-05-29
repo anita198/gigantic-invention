@@ -1,9 +1,9 @@
 &copy; 323 BC - 2021 AD
 
-<html>
-<head></head>
+&lt;html&gt;
+&lt;head&gt;&lt;/head&gt;
 
-<body>
+&lt;body&gt;
 
 <p>This paragraph is for display purposes.</p>
 
