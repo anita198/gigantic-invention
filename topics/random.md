@@ -1,6 +1,6 @@
 ---
 author: Antoine de Saint-Exupery
-link: topics/random.md
+layout: demo_template
 ---
 
 # Chapter II
