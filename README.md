@@ -1,5 +1,7 @@
-# miniature-invention
+# Demo
 
-Demo repo for TWT session
+Demo repository for TWT sessions
 
-Some text
+List of websites:
+
+- Anindita Basu, https://aninditabasu.github.io/ephemeris/
